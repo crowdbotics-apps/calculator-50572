@@ -16,6 +16,7 @@
     "@babel/polyfill": "^7.12.1",
     "@modules/faq": "file:./modules/faq",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
+    "@modules/social-feed": "file:./modules/social-feed",
     "@modules/terms-and-conditions": "file:./modules/terms-and-conditions",
     "@modules/typeform-webhook": "file:./modules/typeform-webhook/",
     "@react-native-masked-view/masked-view": "^0.2.9",
